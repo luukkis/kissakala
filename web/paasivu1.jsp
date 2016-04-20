@@ -7,6 +7,6 @@
     </head>
     <body>
         <h1>Pääsivu</h1>
-        <a href="toka.jsp">Toiselle sivulle</a>
+        <a href="toka.jsp">Mikämikä maahan tästä</a>
     </body>
 </html>
