@@ -1,3 +1,9 @@
+<%-- 
+    Document   : neljas
+    Created on : Apr 20, 2016, 2:00:02 PM
+    Author     : onigr002
+--%>
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -6,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello Worldaaaaaaaaaaaaaa!</h1>
+        <h1>Hello World!</h1>
     </body>
 </html>
